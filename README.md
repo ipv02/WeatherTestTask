@@ -34,3 +34,6 @@ information about the selected city. The design and what information needs to be
 - [x] Getting actual weather and 7 days weather forecast (API);
 - [x] Working with dependencies;
 - [x] Table view cell customization
+
+## Addition
+If you want to use, insert your API Key into the NetworkManager class, URLRequest
