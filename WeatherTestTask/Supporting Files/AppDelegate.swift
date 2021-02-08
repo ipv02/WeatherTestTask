@@ -1,9 +1,4 @@
-//
-//  AppDelegate.swift
-//  WeatherTestTask
-//
-//  Created by Elena Igumenova on 10.01.2021.
-//
+
 
 import UIKit
 
